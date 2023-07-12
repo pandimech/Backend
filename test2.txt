@@ -2,3 +2,4 @@ const arr=[1,2,3,4,5];
 
 cosnt ans=arr.map((ar)=>ar*2);
 console.log(ans)
+console.log(typeof(ans))
