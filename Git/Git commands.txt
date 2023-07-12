@@ -1,0 +1,25 @@
+Git Commands:
+
+git init
+
+git add abc.txt
+
+git commit -m "First"
+
+
+
+After creating one more file:
+
+git add.
+
+
+git commit -m "Second"
+
+ git remote add origin https:// your link .git
+
+git push -u origin master
+
+
+//Creating Branch 
+
+git checkout -b 
